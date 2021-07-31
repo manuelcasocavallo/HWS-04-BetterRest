@@ -1,4 +1,4 @@
-# HWS-04-BetterRest
+# BetterRest
 ### Relevant frameworks used:
 * SwiftUI
 * CoreML
